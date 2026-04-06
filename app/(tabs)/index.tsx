@@ -11,7 +11,7 @@ export default function Index() {
         fontSize: 24,
         fontWeight: '900'
       }}>
-        Antipartícula, antiátomo, antimatéria
+        Antipartícula, antiátomo, antimatéria.
       </Text>
     </View>
   );
